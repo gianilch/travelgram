@@ -1,5 +1,5 @@
 footer {
-  font: var(--text-md);
+  font: var(--text-md-150);
   height: 72px;
   display: flex;
   justify-content: space-between;
