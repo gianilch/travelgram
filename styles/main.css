@@ -1,0 +1,11 @@
+main ul {
+  padding-block: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  list-style: none;
+}
+
+main img {
+  width: 286px;
+}
