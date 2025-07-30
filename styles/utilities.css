@@ -1,0 +1,52 @@
+.container {
+  width: 22.5em;
+}
+
+.py-sm {
+  padding-block: var(--py-sm);
+}
+
+.px-sm {
+  padding-inline: var(--px-sm);
+}
+
+.py-md {
+  padding-block: var(--py-md);
+}
+
+.px-md {
+  padding-inline: var(--px-md);
+}
+
+.py-lg {
+  padding-block: var(--py-lg);
+}
+
+.px-lg {
+  padding-inline: var(--px-lg);
+}
+
+.fs-xl {
+  font-size: var(--fs-xl);
+}
+
+.fs-md {
+  font-size: var(--fs-md);
+}
+
+.fs-sm {
+  font-size: var(--fs-sm);
+}
+
+@media (width >=47em) {
+  .container {
+    width: 80em;
+  }
+
+  :root {
+    --px-sm: 2rem;
+    --py-sm: 1.5rem;
+    --py-md: 1.5rem;
+    --px-md: 1.5rem;
+  }
+}
