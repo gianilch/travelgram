@@ -107,9 +107,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Gian Carlos Ilchechen**
 - GitHub: [@gianilch](https://github.com/gianilch)
-- Localização: São Paulo, Brazil
+- Localização: União da Vitória, Brazil
 - Viajante apaixonado por 37 países 🌍
 
 ---
+
+## 🚀 Desafio feito seguindo a trilha da Rocketseat 
 
 ⭐ Se você gostou deste projeto, não esqueça de dar uma estrela!
